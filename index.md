@@ -4,6 +4,8 @@ MaxWell Clinic is recruiting committed participants for a paid trial to evaluate
 
 Plasmapheresis is an FDA-approved procedure for >50 indications, and it has been shown to improve a range of health measures We believe it may be beneficial even for relatively healthy individuals but more research is needed.
 
+![machine](images/aurora.png)
+
 ### Participants Benefits
 All participants will receive one to four plasmapheresis treatments (a $5k-20k value) and an additional $800, contingent on successful completion of the full study. Through participation, you will contribute to the advancement of human knowledge and development of life-improving therapeutics. 
 
