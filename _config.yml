@@ -20,8 +20,8 @@
 
 title: Seeking participants for a paid trial to rigorously evaluate plasmapheresis as a potential rejuvenation therapy 
 email: your-email@example.com
-description: |- # this means to ignore newlines until "baseurl:"
-Plasmapheresis is an FDA-approved procedure for many conditions, and it has been shown to improve a range of health measures. We believe it may be beneficial even for relatively healthy individuals but more research is needed. This study aims to understand  plasmapheresis effects in volunteers over the age of 50.
+description: |
+Plasmapheresis is an FDA-approved procedure for many conditions, and it has been shown to improve a range of health measures. We believe it may be beneficial even for relatively healthy individuals but more research is needed. This study aims to understand plasmapheresis effects in volunteers over the age of 50.
 
 All participants will receive one to four plasmapheresis treatments (a $5k-20k value) and an additional $800, contingent on successful completion of the full study. The study treatment and follow up visits would require 8 morning visits to MaxWell Clinic over the course of 3 months.
 
