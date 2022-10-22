@@ -18,17 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Seeking participants for a paid trial to rigorously evaluate plasmapheresis as a potential rejuvenation therapy 
+
+title: Plasmapheresis Trial 
 email: your-email@example.com
-description: |
-  Plasmapheresis is an FDA-approved procedure for many conditions, and it has been shown to improve a range of health measures. We believe it may be beneficial even for relatively healthy individuals but more research is needed.
-  This study aims to understand  plasmapheresis effects in volunteers over the age of 50.
-
-  All participants will receive one to four plasmapheresis treatments (a $5k-20k value) and an additional $800, contingent on successful completion of the full study.
-  The study treatment and follow up visits would require 8 morning visits to MaxWell Clinic over the course of 3 months.
-
-  The trial is funded by a Silicon Valley biotechnology company that specializes in high-dimensional measurement of aging biology and the development of therapies to counteract aging. Study participants may also receive research-grade results (e.g. single-cell transcriptomic data, see Figure 1) into their health, in addition to the treatment and monetary compensation for study completion.
-
+description: ""
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,10 +30,13 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+github:
+  is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
