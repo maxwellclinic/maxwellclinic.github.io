@@ -13,7 +13,7 @@ This study aims to understand plasmapheresis effects in committed volunteers ove
 ### About  
 The trail will be performed at (MaxWell Clinic)[https://maxwellclinic.com/] near Nashville, Tennesse. The trial is funded by a new Silicon Valley biotechnology company that specializes in high-dimensional measurement of aging and the development of therapies to counteract aging. Study participants may receive research-grade molecular profiling (transcriptomics, proteomics, and DNA-methylation summary information), in addition to the treatment and monetary compensation for study completion.
 
-![alt text](https://github.com/maxwellclinic/maxwellclinic.github.io/images/umaps.png?raw=true)
+![alt text](https://https://github.com/maxwellclinic/maxwellclinic.github.io/tree/main/images/umaps.png?raw=true)
 
 ### Contact
 xyz@gmail
