@@ -13,7 +13,7 @@ All participants will receive one to four plasmapheresis treatments (a $5k-20k v
 This study aims to understand plasmapheresis effects in committed volunteers over the age of 45. The treatment and follow up visits require 8 visits to MaxWell Clinic over the course of 3 months. Visits may include blood testing and rapid, non-invasive assays. Participants must be in stable health. 
 
 ### About  
-The trail will be performed at !(MaxWell Clinic)[https://maxwellclinic.com/] near Nashville, Tennesse. The trial is funded by a new Silicon Valley biotechnology company that specializes in high-dimensional measurement of aging and the development of therapies to counteract aging. Study participants may receive research-grade molecular profiling (transcriptomics, proteomics, and DNA-methylation summary information), in addition to the treatment and monetary compensation for study completion.
+The trail will be performed at [MaxWell Clinic](https://maxwellclinic.com/) near Nashville, Tennesse. The trial is funded by a new Silicon Valley biotechnology company that specializes in high-dimensional measurement of aging and the development of therapies to counteract aging. Study participants may receive research-grade molecular profiling (transcriptomics, proteomics, and DNA-methylation summary information), in addition to the treatment and monetary compensation for study completion.
 
 ![cells](images/umaps.png)
 
