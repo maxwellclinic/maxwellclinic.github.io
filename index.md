@@ -1,6 +1,6 @@
 ## Recruiting 12 study participants for a paid plasmapheresis trial
 
-MaxWell Clinic is recruiting a small committed cohort for a paid trial to evaluate plasmapheresis as a potential rejuvenation/regeneration therapy. Specifically, this trial will be conducted to gather data on the impacts of plasmapheresis on aging, neurodegeneration, vascular Health and immune function.
+MaxWell Clinic is recruiting a small committed cohort for a paid trial to evaluate plasmapheresis as a _potential rejuvenation/regeneration therapy_. Specifically, this trial will be conducted to gather data on the impacts of plasmapheresis on aging, neurodegeneration, vascular Health and immune function.
 
 Plasmapheresis is an FDA-approved procedure for >50 indications, and it has been shown to improve a range of health measures. We believe it may be beneficial for even relatively healthy individuals but more research is needed.
 
