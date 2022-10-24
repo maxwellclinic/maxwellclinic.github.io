@@ -20,4 +20,4 @@ The trial will be performed at [MaxWell Clinic](https://maxwellclinic.com/) near
 
 
 ### Contact
-xyz@gmail
+Interested in participating? Please contact ABC at xyz@gmail for a pre-screening instructions.
